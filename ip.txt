@@ -1,3 +1,5 @@
 what's server IP?
 
 my IP is: 192.168.1.103
+
+What is the port??
